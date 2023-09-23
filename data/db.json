@@ -1,0 +1,28 @@
+{
+  "produtos": [
+    {
+      "nome": "picole",
+      "qtd": "13",
+      "valor": "2",
+      "id": 1
+    },
+    {
+      "nome": "acai",
+      "qtd": "23",
+      "valor": "27",
+      "id": 2
+    },
+    {
+      "nome": "sorvete frutas",
+      "qtd": "17",
+      "valor": "23",
+      "id": 3
+    },
+    {
+      "nome": "picole de uva",
+      "qtd": "7",
+      "valor": "2",
+      "id": 4
+    }
+  ]
+}
