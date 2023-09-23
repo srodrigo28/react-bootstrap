@@ -25,7 +25,7 @@ export default function Listar(){
         .catch(error => {
             console.log("Error: " + error);
         })
-    }, [produtos])
+    }, [produtos]);
 
     return(
         <div>

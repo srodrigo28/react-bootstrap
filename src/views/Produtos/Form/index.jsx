@@ -12,6 +12,7 @@ export function Form(){
         if (!produto.nome.value || !produto.qtd.value || !produto.valor) {
             return alert("Preencher todos os campos!");
         }
+        
         await axios
             .post("http://localhost:8080/produtos", {
                 nome: produto.nome.value,
